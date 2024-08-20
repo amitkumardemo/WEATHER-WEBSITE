@@ -1,5 +1,5 @@
 # Weather Website
-![Language Translator](https://github.com/amitkumardemo/WEATHER-WEBSITE/blob/main/Screenshot%202024-01-15%20054032.png) <!-- Optional: Add a project image or logo -->
+![Weather Website](https://github.com/amitkumardemo/WEATHER-WEBSITE/blob/main/Screenshot%202024-01-15%20054032.png) <!-- Optional: Add a project image or logo -->
 
 ## Overview
 
